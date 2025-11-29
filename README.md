@@ -73,5 +73,4 @@ Você pode Você pode [acessar o código fonte do projeto](https://github.com/Ma
 
 ## 🌟 Desenvolvedores
 
-[<img src="https://avatars.githubusercontent.com/u/133241955?v=4" width=115><br><sub>Mateus Teixeira</sub>](https://github.com/MateusGT11)
-
+Carlos Martins
