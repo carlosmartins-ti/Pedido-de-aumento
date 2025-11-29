@@ -73,4 +73,8 @@ Você pode Você pode [acessar o código fonte do projeto](https://github.com/Ma
 
 ## 🌟 Desenvolvedores
 
+<<<<<<< HEAD
 Carlos Martins
+=======
+Carlos Martins
+>>>>>>> 692b2c9 (atualizações do projeto)
